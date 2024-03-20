@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-
+//something new
 class Array
 {
 public:
